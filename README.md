@@ -22,15 +22,12 @@ This is a simple web application built using Node.js and Express that fetches an
    npm i
    ```
 
-3.Set up the PostgreSQL database:
-  Create a database called your_database_name.
-  Create a users table with columns email, password, and secret
 
-4.Run the application:
+3.Run the application:
 ```bash
   npm nodemon index.js
 ```
-5.Open your browser and navigate to http://localhost:3001.
+4.Open your browser and navigate to http://localhost:3001.
 
 
 
